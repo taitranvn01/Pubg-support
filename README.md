@@ -194,20 +194,8 @@ Tiếng Việt:
 English:
 - Add descriptive files for new scripts/configs and open an issue/PR when using version control.
 
----
+## Support by Tai 
 
-## Giấy phép / License
+Please follow me =))
 
-Tiếng Việt:
-- Nếu bạn muốn chia sẻ công khai, hãy thêm file `LICENSE` phù hợp.
-
-English:
-- Add a `LICENSE` file if you intend to publish the code publicly.
-
----
-
-## Ghi chú / Notes
-
-- Đây là README tổng quát. Nếu bạn muốn hướng dẫn cài đặt chi tiết dựa trên nội dung thực tế trong `D:\Pubg-support`, tôi có thể mở và liệt kê file/script trong thư mục rồi cập nhật README tương ứng.
-
-_Auto-generated README: created on 2026-03-04_
+ README: created on 2026-03-04_
